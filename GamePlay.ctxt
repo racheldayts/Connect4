@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GamePlay
+comment1.params=
+comment1.target=GamePlay()
+comment2.params=
+comment2.target=int\ askForCol()
+comment3.params=
+comment3.target=int\ getComputerCol()
+comment4.params=player
+comment4.target=void\ playerTurn(java.lang.String)
+comment5.params=letter
+comment5.target=boolean\ hasWinner(java.lang.String)
+comment6.params=
+comment6.target=boolean\ noWinner()
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=letter\ col
+comment3.target=int\ setBoard(java.lang.String,\ int)
+comment4.params=letter
+comment4.target=boolean\ verticalCheck(java.lang.String)
+comment5.params=letter
+comment5.target=boolean\ horizontalCheck(java.lang.String)
+comment6.params=letter
+comment6.target=boolean\ diagonalCheck(java.lang.String)
+comment7.params=letter
+comment7.target=boolean\ reverseDiagonalCheck(java.lang.String)
+comment8.params=
+comment8.target=boolean\ boardIsFull()
+numComments=9
